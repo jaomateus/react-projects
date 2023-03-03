@@ -6,7 +6,7 @@ const Hero = () => {
   const { closeSubmenu } = useGlobalContext();
 
   return (
-    <section className="hero">
+    <section className="hero" onMouseHover={closeSubmenu}>
       <div className="hero-center">
         <article className="hero-info">
           <h1>paymentys infrastructure for internet</h1>
