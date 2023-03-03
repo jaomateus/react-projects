@@ -17,7 +17,7 @@ const Navbar = () => {
     }
   });
 
-  return (
+  return (  
     <nav>
       <div className="nav-center">
         <div className="nav-header">
