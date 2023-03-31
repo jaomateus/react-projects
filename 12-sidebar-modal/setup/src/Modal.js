@@ -3,7 +3,7 @@ import { FaTimes } from "react-icons/fa";
 
 const Modal = () => {
   return (
-   'Modal'
+   <h2>Modal</h2>
   );
 };
 

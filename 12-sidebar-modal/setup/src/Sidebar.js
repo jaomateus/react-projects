@@ -6,7 +6,7 @@ import { social, links } from "./data";
 const Sidebar = () => {
 
   return (
-    'Sidebar'
+    <h2>Sidebar</h2>
   );
 };
 
