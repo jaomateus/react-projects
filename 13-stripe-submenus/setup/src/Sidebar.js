@@ -5,7 +5,7 @@ import sublinks from "./data";
 const Sidebar = () => {
  
   return (
-   Sidebar
+   'Sidebar'
   );
 };
 
